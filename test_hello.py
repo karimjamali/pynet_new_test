@@ -1,3 +1,3 @@
-print "Hello World"
-print "Something Else"
-print "One final thing"
+print "Hello World/n"
+print "Something Else/n"
+print "One final thing/n"
